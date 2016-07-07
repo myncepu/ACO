@@ -1,6 +1,6 @@
 function maximum = simpleACO(objectFunction, isPlot, numAnt, maxIter, rou, ...
     probability, step, upperBound, lowerBound)
-% simpleACO use ACO(Ant Colony algorighm to find the maximum of a function
+% simpleACO use ACO(Ant Colony  Algorithm) to find the maximum of a function
 %   MAXIMUM = SIMPLEACO(OBJECTFUNCTION, ISPLOT, NUMANT, MAXITER, ROU, ...
 %   PROBABILITY, STEP, UPPERBOUND, LOWERBOUND)
 %
